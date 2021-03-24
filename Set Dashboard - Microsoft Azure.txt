@@ -1,0 +1,1 @@
+https://portal.azure.com/#blade/Microsoft_Azure_ActivityLog/ActivityLogBlade/queryInputs/%7B%22user%22%3A%22%40me%22%7D

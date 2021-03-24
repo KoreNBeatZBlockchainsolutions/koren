@@ -1,0 +1,167 @@
+{
+    "project": {
+        "info": {
+            "name": "Token",
+            "title": "Token"
+        }
+    },
+    "environments": [
+        {
+            "name": "browser"
+        },
+        {
+            "name": "custom"
+        },
+        {
+            "name": "rinkeby"
+        },
+        {
+            "name": "ropsten"
+        },
+        {
+            "name": "kovan"
+        },
+        {
+            "name": "mainnet"
+        }
+    ],
+    "contracts": [
+        {
+            "source": "/contracts/Token.sol",
+            "name": "Token",
+            "args": []
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/access/Roles.sol",
+            "name": "Roles",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/GSN/Context.sol",
+            "name": "Context",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/math/SafeMath.sol",
+            "name": "SafeMath",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/payment/PaymentSplitter.sol",
+            "name": "PaymentSplitter",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/token/ERC20/TokenTimelock.sol",
+            "name": "TokenTimelock",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/token/ERC20/SafeERC20.sol",
+            "name": "SafeERC20",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/token/ERC20/IERC20.sol",
+            "name": "IERC20",
+            "args": [],
+            "value": ""
+        },
+        {
+            "source": "/node_modules/openzeppelin-solidity/contracts/utils/Address.sol",
+            "name": "Address",
+            "args": [],
+            "value": ""
+        }
+    ],
+    "wallets": [
+        {
+            "desc": "This is a wallet for local development",
+            "name": "development"
+        },
+        {
+            "desc": "A private wallet",
+            "name": "private"
+        },
+        {
+            "desc": "External wallet integrating with Metamask and other compatible wallets",
+            "name": "external",
+            "type": "external"
+        }
+    ],
+    "accounts": [
+        {
+            "name": "Default",
+            "_environments": [
+                {
+                    "name": "browser",
+                    "data": {
+                        "wallet": "development",
+                        "index": 0
+                    }
+                },
+                {
+                    "name": "custom",
+                    "data": {
+                        "wallet": "private",
+                        "index": 0
+                    }
+                },
+                {
+                    "name": "rinkeby",
+                    "data": {
+                        "wallet": "external",
+                        "index": 0
+                    }
+                },
+                {
+                    "name": "ropsten",
+                    "data": {
+                        "wallet": "external",
+                        "index": 0
+                    }
+                },
+                {
+                    "name": "kovan",
+                    "data": {
+                        "wallet": "external",
+                        "index": 0
+                    }
+                },
+                {
+                    "name": "mainnet",
+                    "data": {
+                        "wallet": "external",
+                        "index": 0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Account1",
+            "address": "0x0",
+            "_environments": [
+                {
+                    "name": "browser",
+                    "data": {
+                        "wallet": "development",
+                        "index": 1
+                    }
+                },
+                {
+                    "name": "custom",
+                    "data": {
+                        "wallet": "private",
+                        "index": 1
+                    }
+                }
+            ]
+        }
+    ]
+}
