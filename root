@@ -1,0 +1,313 @@
+{
+
+  "project_info": {
+
+    "project_number": "1036714864520",
+
+    "firebase_url": "https://korenbeatz-ecosystem.firebaseio.com",
+
+    "project_id": "korenbeatz-ecosystem",
+
+    "storage_bucket": "korenbeatz-ecosystem.appspot.com"
+
+  },
+
+  "client": [
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:1036714864520:android:3a9686d2611d34c0",
+
+        "android_client_info": {
+
+          "package_name": "Com.korenapp"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBwwgphJR5QqmsWnewQWfoz9GecKuVAKuk"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+              "client_type": 3
+
+            }
+
+          ]
+
+        }
+
+      },
+
+      "admob_app_id": "ca-app-pub-5840366555847869~2882172880"
+
+    },
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:1036714864520:android:2f06d06282e4bd71d7d43d",
+
+        "android_client_info": {
+
+          "package_name": "Com.korenbeatz"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBwwgphJR5QqmsWnewQWfoz9GecKuVAKuk"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+              "client_type": 3
+
+            }
+
+          ]
+
+        }
+
+      }
+
+    },
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:1036714864520:android:8e5d698c6fdc32d5d7d43d",
+
+        "android_client_info": {
+
+          "package_name": "app.compound.financeKorenbeatzBlockchain"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBwwgphJR5QqmsWnewQWfoz9GecKuVAKuk"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+              "client_type": 3
+
+            }
+
+          ]
+
+        }
+
+      }
+
+    },
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:1036714864520:android:6ae4099488c6e02a",
+
+        "android_client_info": {
+
+          "package_name": "com.korenbeatz.korenapp"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBwwgphJR5QqmsWnewQWfoz9GecKuVAKuk"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+              "client_type": 3
+
+            }
+
+          ]
+
+        }
+
+      }
+
+    },
+
+    {
+
+      "client_info": {
+
+        "mobilesdk_app_id": "1:1036714864520:android:baa079f2891053b1d7d43d",
+
+        "android_client_info": {
+
+          "package_name": "com.korenbeatz.korenbeatz"
+
+        }
+
+      },
+
+      "oauth_client": [
+
+        {
+
+          "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+          "client_type": 3
+
+        }
+
+      ],
+
+      "api_key": [
+
+        {
+
+          "current_key": "AIzaSyBwwgphJR5QqmsWnewQWfoz9GecKuVAKuk"
+
+        }
+
+      ],
+
+      "services": {
+
+        "appinvite_service": {
+
+          "other_platform_oauth_client": [
+
+            {
+
+              "client_id": "1036714864520-vf3bunvgumsdpiquec0i9fe97h766qsh.apps.googleusercontent.com",
+
+              "client_type": 3
+
+            }
+
+          ]
+
+        }
+
+      }
+
+    }
+
+  ],
+
+  "configuration_version": "1"
+
+}
