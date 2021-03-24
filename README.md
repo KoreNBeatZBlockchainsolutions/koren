@@ -337,6 +337,47 @@ func (api *ExternalSigner) listAccounts() ([]common.Address, error) {
 	}
 	return res, nil
 }
+script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
+
+Insert the following html code at the position where you would like the button to appear
+
+<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="bitcoin:bc1qv498sd42tp795gnvvjvuv6jhfm76ng9rg0qypw?label=KoreNBeatZ%20Blockchain" data-shared="false">
+
+  <div class="blockchain stage-begin">
+
+      <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+
+  </div>
+
+  <div class="blockchain stage-loading" style="text-align:center">$"bc1qv498sd42tp795gnvvjvuv6jhfm76ng9rg0qypw"
+
+      <img src="https://blockchain.info/Resources/loading-large.gif"/>
+
+  </div>
+
+  <div class="blockchain stage-ready"> "bc1qv498sd42tp795gnvvjvuv6jhfm76ng9rg0qypw"
+
+      <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
+
+      <p align="center" class="qr-code"></p>
+
+  </div>
+
+  <div class="blockchain stage-paid">
+
+      Donation of <b>[[value]] BTC</b> Received. Thank You.
+
+  </div>
+
+  <div class="blockchain stage-error">
+
+      <font color="red">[[error]]</font>
+
+  </div>
+
+</div>
 
 func (api *ExternalSigner) pingVersion() (string, error) {
 	var v string
